@@ -3,10 +3,10 @@
 
 Ссылка на курс: https://stepik.org/course/4852/info
 
-Результатом проверки точности предсказаний было значение ROC AUC score. В качестве алгоритма использован RandomForest.
+Результатом проверки точности предсказаний было значение <b>ROC AUC score</b>. В качестве алгоритма использован <b>RandomForest</b>.
 
-В src/Stepik ML contest (Готовое решение, 0.86).ipynb находится готовое решение.
-В src/Stepik ML contest (Конспект).ipynb находится конспект с курса.
+- Готовое решение в src/Stepik ML contest (Готовое решение, 0.86).ipynb.
+- Конспект с курса в src/Stepik ML contest (Конспект).ipynb.
 
 ## Результат
 ROC AUC: 0.8642
